@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Promise 
 - 👀 I’m interested in blockchain,  Game and web/App development 
 - 🌱 I’m currently learning Solidity,  Javascript, python, C# and C++
-- 💞️ I’m looking to collaborate on my projects 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me on twitter
 
 <!---
