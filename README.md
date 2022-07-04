@@ -3,6 +3,7 @@
 - 🌱 I’m currently building with Solidity,  Javascript,Rust, Unreal Engine , Unity Engine, python, C# and C++
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me on twitter
+- Diamond
 
 <!---
 Diapmusic/Diapmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
